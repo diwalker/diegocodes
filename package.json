@@ -1,7 +1,8 @@
 {
   "name": "diegocodes",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
+  "homepage": "https://diwalker.github.io/diegocodes/",
   "type": "module",
   "scripts": {
     "dev": "vite",
