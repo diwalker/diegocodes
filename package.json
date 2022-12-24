@@ -23,7 +23,7 @@
     "sass": "^1.56.2",
     "vite": "^4.0.0"
   },
-  "homepage": "https://diwalker.github.io/diegocodes/",
+  "homepage": "https://diwalker.github.io/diegocodes",
   "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
