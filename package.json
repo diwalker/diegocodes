@@ -17,8 +17,14 @@
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
     "@vitejs/plugin-react": "^3.0.0",
+    "gh-pages": "^4.0.0",
     "react-icons": "^4.7.1",
     "sass": "^1.56.2",
     "vite": "^4.0.0"
-  }
+  },
+  "homepage": "https://diwalker.github.io/diegocodes/",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
 }
